@@ -1,1 +1,1 @@
-FROM jonasal/devpi-server:6.17.0
+FROM jonasal/devpi-server:6.17
